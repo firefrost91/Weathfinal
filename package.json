@@ -1,7 +1,7 @@
 {
   "name": "weather-app",
   "version": "0.1.0",
-  "homepage": "http://firefrost91.github.io/Weathfinal/" ,
+  "homepage": "http://firefrost91.github.io/Weather final/" ,
   "private": true,
   "dependencies": {
     "react": "^16.8.6",
