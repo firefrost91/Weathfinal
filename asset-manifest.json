@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Weathfinal/static/css/main.98e20755.chunk.css",
+    "main.js": "/Weathfinal/static/js/main.e7150076.chunk.js",
+    "main.js.map": "/Weathfinal/static/js/main.e7150076.chunk.js.map",
+    "runtime~main.js": "/Weathfinal/static/js/runtime~main.258c3178.js",
+    "runtime~main.js.map": "/Weathfinal/static/js/runtime~main.258c3178.js.map",
+    "static/css/2.b0443ea5.chunk.css": "/Weathfinal/static/css/2.b0443ea5.chunk.css",
+    "static/js/2.34decb7f.chunk.js": "/Weathfinal/static/js/2.34decb7f.chunk.js",
+    "static/js/2.34decb7f.chunk.js.map": "/Weathfinal/static/js/2.34decb7f.chunk.js.map",
+    "index.html": "/Weathfinal/index.html",
+    "precache-manifest.27159600334eb55d1fe7d54d4d5f9a7e.js": "/Weathfinal/precache-manifest.27159600334eb55d1fe7d54d4d5f9a7e.js",
+    "service-worker.js": "/Weathfinal/service-worker.js",
+    "static/css/2.b0443ea5.chunk.css.map": "/Weathfinal/static/css/2.b0443ea5.chunk.css.map",
+    "static/css/main.98e20755.chunk.css.map": "/Weathfinal/static/css/main.98e20755.chunk.css.map",
+    "static/media/App.css": "/Weathfinal/static/media/bg.b6796c73.jpg"
+  }
+}
